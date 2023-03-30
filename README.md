@@ -6,7 +6,7 @@ This is a classic Snake game built using HTML, CSS, and JavaScript.
 Installation
 To run the game locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/snake-game.git
+Clone the repository: git clone https://suraj-2808.github.io/snake-game/
 
 Open the index.html file in your preferred web browser.
 
